@@ -1,0 +1,46 @@
+h1{
+    display: inline-block;
+    width: 100px;
+    background-color: #f9d29d;
+    background-image: linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
+    
+    color: black;
+    height: 40px;
+    font-weight: bolder;
+padding: 3px;
+margin: 3px;
+text-shadow: black 1px 1px 0px;
+border-radius: 5px;
+}
+
+
+.y{
+    margin-top: 120px;
+}
+body {
+    text-align: center;
+    background-color: #9dc5c3;
+    background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+}
+
+button{
+    width: 80px;
+    height: 50px;
+margin-top: 30px;
+    margin-left: 20px;
+
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    background: rgb(235,222,227);
+background: radial-gradient(circle, rgba(235,222,227,1) 0%, rgba(74,191,188,1) 100%);
+
+}
+
+
+
+
+
+
+
